@@ -3,4 +3,4 @@
  - Contact : joyful.jioh.yoo@gmail.com
 
 # Publications
-[Link](/pub/list)
+[Link](./pub/list)
