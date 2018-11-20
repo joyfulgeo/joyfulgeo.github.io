@@ -6,4 +6,5 @@
 [Link](./pub/list)
 
 # Career
-- 2006/02 ~ 2014/05 [Pantech](./career/pantech)
+- 2006/02 ~ 2014/05 : [Pantech](./career/pantech)
+- 2014/06 ~ Current : Hyundai Mobis (Update in progress...)
