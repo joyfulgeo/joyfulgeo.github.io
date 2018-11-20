@@ -4,3 +4,6 @@
 
 # Publications
 [Link](./pub/list)
+
+# Career
+- 2006/02 ~ 2014/05 [Pantech](./career/pantech)
