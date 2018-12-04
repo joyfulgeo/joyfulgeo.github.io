@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
-title: About Jioh Yoo
+title: Jioh Yoo
 github.owner_url: ./
 github.is_project_page: false
+google_analytics: true
