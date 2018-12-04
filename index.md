@@ -1,9 +1,4 @@
-# Informations
- - Name : Jioh Yoo (유지오)
- - Contact : joyful.jioh.yoo@gmail.com
-
-
-# About
+# I am ...
 재미있는 삶을 살고 싶은 인간.<br>
 음악과 영화를 사랑하는 덕후.<br>
 우아한 코드와 구조를 좋아하는 SW 개발자.<br>
@@ -13,6 +8,11 @@ Person who want to live a fun life.<br>
 Mania who love music and movies.<br>
 SW developer who like elegant code and structure.<br>
 Android programmer who graduated from AI lab and develops UI software for feature phone, smartphone, and car infotainment system, but wants to return to AI development someday.
+
+
+# Informations
+ - Name : Jioh Yoo (유지오)
+ - Contact : joyful.jioh.yoo@gmail.com
 
 
 # Publications
