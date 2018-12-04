@@ -1,4 +1,4 @@
-# Profile
+# Informations
  - Name : Jioh Yoo (유지오)
  - Contact : joyful.jioh.yoo@gmail.com
 
@@ -19,6 +19,6 @@ Android programmer who graduated from AI lab and develops UI software for featur
 [Link](./pub/list)
 
 
-# Career
+# Careers
 - 2006/02 ~ 2014/05 : [Pantech](./career/pantech)
 - 2014/06 ~ Current : Hyundai Mobis (Update in progress...)
