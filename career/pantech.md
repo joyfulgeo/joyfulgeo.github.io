@@ -8,7 +8,7 @@
 	+ 미주향(Verizon, AT&T, etc)/일본향(KDDI) Feature Phone의 PIMS Application, UI Platform 개발
 	+ Android 기반 Smart Phone에 탑재되는 Service Application 개발
 - 주요 기술
-	+ C, Java, RexOS, Qualcomm BREW, Android, HTML/CSS, JavaScript, jQuery, Jetty
+	+ C, Java, RexOS, Qualcomm BREW, Android, HTML/CSS, JavaScript, jQuery, Jetty, ClearCase, SubVision, PlasticSCM
 
 
 ### 미주향 Feature Phone MMI(UI) SW 개발 ###
@@ -17,7 +17,7 @@
 - 참여시점 : 양산 개발, 테스트, 출시
 - 프로젝트 내용 : 미주향 Feature Phone 모델의 MMI(UI) SW 개발 및 테스트 (9개 모델)
 - 참여 인원 : 15명 이상
-- 사용 기술 : C, ARM 기반 RexOS
+- 사용 기술 : C, ARM 기반 RexOS, ClearCase
 - 주요 활동
 	+ 미국 통신 회사인 Verizon에 공급하기 위한 미주향 Feature Phone의 MMI 관련 SW 개발 및 회사 내부 UI Component 및 Platform 개발에 참여
 	+ ARM 기반의 REX OS 위에 회사에서 자체적으로 구축한 UI Platform 및 Component를 바탕으로 사업자에서 요구하는 각종 기능 및 UI Interaction을 구현하고, 유지 보수
@@ -38,7 +38,7 @@
 - 참여시점 : 양산 개발, 테스트, 출시
 - 프로젝트 내용 : 일본 KDDI 향 Feature Phone 모델의 KCP(KDDI Common Platfrom) 개발 및 지원 (2개 모델)
 - 참여인원 : 2명
-- 사용 기술 : C, ARM 기반 RexOS, Qualcomm BREW Platform
+- 사용 기술 : C, ARM 기반 RexOS, Qualcomm BREW Platform, ClearCase, SubVision
 - 주요 활동
 	+ 일본 통신 회사인 KDDI에 공급하기 위한 Feature Phone 개발 프로젝트에서, 2개 모델에 걸쳐 KCP (KDDI Common Platform)의 포팅 및 개발 지원을 수행
 	+ KCP는 KDDI에 공급하는 Phone에 모두 탑재해야 하는 KDDI 사업자 Platform으로, Qualcomm BREW를 기반으로 각종 App의 Life Cycle 관리, 전체 App Management, 폰 Status 및 Argument 관리 하는 역할을 함
@@ -54,7 +54,7 @@
 - 참여시점 : 선행 기획, 선행 개발, 테스트, 출시
 - 프로젝트 내용 : 회사 내부 UI Component/Platform의 3세대 버전인 3G UI Platform 기획 및 개발
 - 참여인원 : 15명 이상
-- 사용 기술 : C, ARM 기반 RexOS, Qualcomm BREW Platform
+- 사용 기술 : C, ARM 기반 RexOS, Qualcomm BREW Platform, ClearCase
 - 주요 활동
 	+ 2008년까지 사용하던 회사 내부 자체 UI Component/Platform은 2세대 버전으로 통신 사업자가 요구하는 다양한 요구 사항을 반영하고 Application 관리 및 디버깅을 하기에는 여러 가지 한계에 부딪치고 있는 상황 이었음. 따라서 당시 새로운 Platform으로 떠오르던 Qualcomm BREW 기반으로 새로운 UI Component 및 Platform을 기획하고 개발하는 프로젝트가 추진되었고, 이 프로젝트에 참여함
 	+ 3G UI 프로젝트는 초기 기획 단계부터 요구 사항 분석, 설계, 개발, 테스트 등 표준적인 개발 프로세스를 철저히 따라 개발하는 것을 지향하였으며, SRS 작성, SDD 작성, 프로토타입 구현, 상호간 코드 리뷰, 테스트 등이 수행된 프로젝트
@@ -70,7 +70,7 @@
 - 참여시점 : 양산 개발, 테스트, 출시
 - 프로젝트 내용 : 미주향 Feature Phone 모델의 AMS 및 Task Manager 개발 (5개 모델)
 - 참여인원 : 1명
-- 사용 기술 : C, ARM 기반 RexOS, Qualcomm BREW Platform
+- 사용 기술 : C, ARM 기반 RexOS, Qualcomm BREW Platform, PlasticSCM
 - 주요 활동
 	+ 2009년까지 준비한 회사의 자체 UI Platform인 3GUI를 실제 미주향 Feature Phone에 적용하고, Verizon, AT&T의 요구 사항을 적용 구현하는 프로젝트 참여(5개 모델)
 	+ 주로 내가 개발한 AMS를 기반으로 통신 사업자가 요구하는 Application 실행 흐름을 제어하는 과정을 구현하고, 다른 Application 개발자를 지원하는 역할을 수행
@@ -86,7 +86,7 @@
 - 참여시점 : 선행 개발, 양산 개발, 테스트, 출시
 - 프로젝트 내용 : 국내 스마트 폰에 탑재되는 SKY Air Link Application 개발
 - 참여인원 : 4명
-- 사용 기술 : Java, Android, HTML/CSS, JavaScript, jQuery, jQuery Mobile, Jetty
+- 사용 기술 : Java, Android, HTML/CSS, JavaScript, jQuery, jQuery Mobile, Jetty, SubVision
 - 주요 활동
 	+ 회사의 내부 선행 프로젝트로 Android 단말기 내에 Web Server를 탑재하고, 이를 통해 서로 단말기에 접속하여 파일 공유를 할 수 있는 SKY Air Link 프로젝트 개발에 참여
 	+ 이 기능은 2012년 1월에 출시된 Vega LTE EX에 탑재됨
@@ -102,7 +102,7 @@
 - 참여시점 : 양산 개발, 테스트, 출시, 유지 보수
 - 프로젝트 내용 : 국내 스마트 폰에 탑재되는 회사의 자체 Cloud 서비스인 Cloud Live 서비스의 단말 Client 개발 및 지원
 - 참여인원 : 5명
-- 사용 기술 : Java, Android
+- 사용 기술 : Java, Android, SubVision
 - 주요 활동
 	+ 회사의 스마트 폰 단말 사용자를 위한 자체 Cloud 서비스인 Cloud Live 서비스의 단말 Client 개발 및 지원
 	+ Cloud Live는 Vega 사용자를 위해 Cloud 저장 공간을 제공하고, 전화부/메모/일정/각종 설정 값을 동기화/백업/복원해주는 서비스임
