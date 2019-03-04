@@ -1,6 +1,6 @@
 [<Back](./../index)
 
-## Career - Hyundai Mobis ##
+## Hyundai Mobis ##
 
 - 한국의 자동차 부품 전문 회사
 - 기간 : 2014/06 ~ 재직중

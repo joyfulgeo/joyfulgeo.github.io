@@ -1,6 +1,6 @@
 [<Back](./../index)
 
-## Career - Pantech ##
+## Pantech ##
 
 - 한국의 휴대폰 단말기 제조 회사
 - 기간 : 2006/02 ~ 2014/05
