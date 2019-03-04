@@ -1,6 +1,6 @@
-# Career #
+[<Back](./../index)
 
-## Pantech ##
+## Career - Pantech ##
 
 - 한국의 휴대폰 단말기 제조 회사
 - 기간 : 2006/02 ~ 2014/05
@@ -114,4 +114,4 @@
 	+ Server Side의 DB 동작 구조 경험
 	+ Android 플랫폼의 Cotent Provider 구조, Service 구조에 대한 경험
 
-
+[<Back](./../index)
