@@ -1,6 +1,6 @@
 
 # I am ... #
-<img src="./images/2018_geo_l.JPG" alt="me!" width="200" style="float:left; padding-right:20;"/>
+<img src="./images/2018_geo_l.JPG" alt="me!" width="200" style="float:left; margin-right:50;"/>
 재미있는 삶을 살고 싶은 <b>인간</b>.<br>
 음악과 영화를 사랑하는 <b>덕후</b>.<br>
 우아한 코드와 구조를 좋아하는 <b>SW 개발자</b>.<br>
