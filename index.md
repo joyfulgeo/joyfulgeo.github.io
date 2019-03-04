@@ -4,16 +4,12 @@
 재미있는 삶을 살고 싶은 <b>인간</b>.<br>
 음악과 영화를 사랑하는 <b>덕후</b>.<br>
 우아한 코드와 구조를 좋아하는 <b>SW 개발자</b>.<br>
-AI 연구실을 졸업하고<br>
-피처폰, 스마트폰, 자동차 인포테인먼트 시스템의 Software 개발하고 있지만,<br>
-언젠가는 AI 개발로 돌아가고 싶은 <b>모바일 프로그래머</b>.
+AI 연구실을 졸업하고 피처폰, 스마트폰, 자동차 인포테인먼트 시스템의 Software 개발하고 있지만, 언젠가는 AI 개발로 돌아가고 싶은 <b>모바일 프로그래머</b>.
 
 <b>Person</b> who want to live a fun life.<br>
 <b>Mania</b> who love music and movies.<br>
 <b>SW Engineer</b> who like elegant code and structure.<br>
-<b>Mobile Programmer</b> who graduated from AI lab and <br>
-develops software for feature phone, smartphone, and car infotainment system,<br>
-but wants to return to AI development someday.
+<b>Mobile Programmer</b> who graduated from AI lab and develops software for feature phone, smartphone, and car infotainment system, but wants to return to AI development someday.
 
 # Informations #
  - Name : Jioh Yoo (유지오)
