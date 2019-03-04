@@ -1,15 +1,18 @@
+
+
 # I am ... #
+<img src="./images/2018_geo.JPG" alt="me!" width="200" style="float:left;"/>
 재미있는 삶을 살고 싶은 <b>인간</b>.<br>
 음악과 영화를 사랑하는 <b>덕후</b>.<br>
 우아한 코드와 구조를 좋아하는 <b>SW 개발자</b>.<br>
 AI 연구실을 졸업하고<br>
 피처폰, 스마트폰, 자동차 인포테인먼트 시스템의 Software 개발하고 있지만,<br>
-언젠가는 AI 개발로 돌아가고 싶은 <b>프로그래머</b>.
+언젠가는 AI 개발로 돌아가고 싶은 <b>모바일 프로그래머</b>.
 
 <b>Person</b> who want to live a fun life.<br>
 <b>Mania</b> who love music and movies.<br>
 <b>SW Engineer</b> who like elegant code and structure.<br>
-<b>Programmer</b> who graduated from AI lab and <br>
+<b>Mobile Programmer</b> who graduated from AI lab and <br>
 develops software for feature phone, smartphone, and car infotainment system,<br>
 but wants to return to AI development someday.
 
@@ -19,7 +22,7 @@ but wants to return to AI development someday.
  - Location : Sungnam Si, Kyunggi Do, South Korea
 
 # Work Experiences #
-- 2014/06 ~ Current : [Hyundai Mobis](./career/mobis) Senior SW Engineer (Programmer, Project Leader)
+- 2014/06 ~ Present : [Hyundai Mobis](./career/mobis) Senior SW Engineer (Programmer, Project Leader)
 - 2006/02 ~ 2014/05 : [Pantech](./career/pantech) SW Engineer (Programmer)
 
 # Publications #
@@ -45,12 +48,12 @@ but wants to return to AI development someday.
  - ★★★★☆ C/C++ 
  - ★★☆☆☆ HTML/CSS, JavaScript, jQuery
  - ★★★★☆ Android Application Development / Android Framework (AOSP)
- - ★★☆☆☆ Linux / QT
+ - ★★☆☆☆ Embedded Linux / QT
  - ★★★★★ Object-oriented Design / Refactoring
  - ★★★★☆ Technical Writing /UML
- - ★★★☆☆ Embedded Software
+ - ★★★★☆ Mobile/Embedded Software
  - ★★★☆☆ Automotive Framework / CAN Network
- - ★★★☆☆ Encryption
+ - ★★★☆☆ Cryptography
  - ★★★☆☆ Baysian Network, Genetic Algorithm, ANN
  - ★☆☆☆☆ Python / Tensorflow
 
@@ -59,6 +62,7 @@ but wants to return to AI development someday.
  - ★★★☆☆ Intelli J, Android Studio, Eclipse, Vim, Sublime Text, vsCode
  - ★★★☆☆ Confluence/Jira
  - ★★★★☆ Productivity Tools (Word, PowerPoint, Excel, Visio, Photoshop, AfterEffect 등)
+ - ★★★☆☆ Markdown
  - ★☆☆☆☆ Bash Shell Script
  - ★★☆☆☆ Docker
  - ★★★★★ Googling
@@ -71,12 +75,19 @@ but wants to return to AI development someday.
  - ★★★★★ 문제 해석/해결 능력
  - ★★★★★ 새로운 것에 대한 욕망
  - ★☆☆☆☆ 지나간 것에 대한 미련
+ - ★★★★★ 창의력
  - ★★★★☆ 긍정적인 마음
- - ★★★★★ 빨리 배우기
- - ★★★★★ 좋은 시작
- - ★★★☆☆ 적당한 속도의 과정
- - ★★★★☆ 꼼꼼한 마무리
  - ★★★★★ 친화력
  - ★☆☆☆☆ 냉정함
  - ★★★★☆ 의견내기
  - ☆☆☆☆☆ 조용함을 견딤
+ - ★★★★★ 빨리 배우기
+ - ★★★★★ 좋은 시작
+ - ★★★☆☆ 적당한 속도의 과정
+ - ★★★★☆ 꼼꼼한 마무리
+
+# Etc #
+ - 2007/08 : 정보처리기사
+ - 2000/03 ~ 2004/02 : 대학 중앙 동아리 MAY
+     + 미디 음악 동아리로, 미디를 통해 음악을 작가/작곡하여 발표하고, 조명 등을 포함하여 무대 연출/공연 진행.
+     + 2002년 1학기 동아리 회장 역할 수행
