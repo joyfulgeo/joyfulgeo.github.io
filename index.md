@@ -22,8 +22,8 @@ but wants to return to AI development someday.
  - Location : Sungnam Si, Kyunggi Do, South Korea
 
 # Work Experiences #
-- 2014/06 ~ Present : [Hyundai Mobis](./career/mobis) Senior SW Engineer (Programmer, Project Leader)
-- 2006/02 ~ 2014/05 : [Pantech](./career/pantech) SW Engineer (Programmer)
+- 2014/06 ~ Present : 현대 모비스 Hyundai Mobis ([in detail](./career/mobis)) / Senior SW Engineer (Programmer, Project Leader)
+- 2006/02 ~ 2014/05 : 팬택 Pantech ([in detail](./career/pantech)) / SW Engineer (Programmer)
 
 # Publications #
  베이지안 네트워크를 유전자 알고리즘을 통해 학습하는 연구, 또 다양한 데이터를 처리하기 위해 퍼지 이론을 사용한 전처리 모듈을 베이지안 네트워크와 접목하는 연구 등을 수행하였고, 적용한 분야로 모바일 로봇 분야, PDA 등 모바일 기기를 사용한 위치 기반 서비스, 상황 인식을 사용한 음악 추천 서비스 등이 있음
