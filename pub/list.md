@@ -9,6 +9,7 @@
 - 국내 논문지 (1편)
     1. J.-O. Yoo, K.-J. Kim and S.-B. Cho, "Construction of robust Bayesian network ensemble using speciated evolutionary algorithm", Journal of Korea Information Science Society, vol. 31, no. 12, pp. 1569-1580, 2004. (published)
     [Link](http://sclab.yonsei.ac.kr/publications/Papers/DJ/1569-1580_uribyul.pdf)
+    [Link2](pub_archive/2004_Construction_of_BN.pdf)
 
 - 국내 학술지 (5편)
     1. J.-O. Yoo, S.-B. Cho, "Fuzzy Bayesian network for fusion of multimodal context information", Proc. of KCC, vol. 32, no. 1, pp. 631-633, 2005. (published)
