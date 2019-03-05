@@ -14,7 +14,7 @@ AI 연구실을 졸업하고 피처폰, 스마트폰, 자동차 인포테인먼�
 # Informations #
  - Name : Jioh Yoo (유지오)
  - Contact : joyful.jioh.yoo@gmail.com
- - Location : Sungnam Si, Kyunggi Do, South Korea
+ - Location : Seongnam Si, Kyeonggi Do, South Korea
 
 # Work Experiences #
 - 2014/06 ~ Present : 현대 모비스 Hyundai Mobis
