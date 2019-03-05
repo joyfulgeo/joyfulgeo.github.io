@@ -37,7 +37,7 @@
 - 사용 기술 : Java, CAN Network, Automotive Framework, Git (Gerrit)
 - 주요 활동 :
     + CAN 통신 사양의 외장 CDP 모듈이 신규 추가되어, 새로운 인터페이스에 맞추어 AVN과 연동 개발
-    + 전용 통신 사양의 기존 내장 CDP와 인터페이스가 같지 않으나, 호환성 보장이 필요하여, Adapter Parttern 활용하여 Framework 단 설계 및 개발함
+    + 전용 통신 사양의 기존 내장 CDP와 인터페이스가 같지 않으나, 호환성 보장이 필요하여, Adapter Pattern 활용하여 Framework 단 설계 및 개발함
     + Throughput 한계가 있는 CAN 통신 하에서 원활한 작동을 위해 CAN Msg 처리 루틴 개선
 - 성과
     + 차량 분야에서 많이 사용하는 CAN 통신에 대한 이해가 넓어짐
