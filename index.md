@@ -1,4 +1,6 @@
-<code>Programmer.adore(elegance, fun);</code>
+<code>
+ Programmer.adore(elegance, fun);
+</code>
 
 # I am ... #
 <img src="./images/2018_geo_l.JPG" alt="me!" width="175" style="float:left;"/>
