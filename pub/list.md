@@ -42,5 +42,6 @@
 
 - 석사 학위 논문 (1편)
     1. 유지오, "퍼지 베이지안 네트워크와 효용성 이론을 사용한 상황 기반 음악 추천", 학위논문(석사) - - 연세대학교 대학원 : 컴퓨터과학과, 2006.2
+    [Link](./pub_archive/2006_MS_Context-aware_Music_Recommendation_using_Fuzzy_Baysian_Network_and_Utility_Theory.pdf)
 
 [<Back](./../index)
