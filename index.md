@@ -6,13 +6,15 @@
 <img src="./images/2018_geo_l.JPG" alt="me!" width="175" style="float:left;"/>
 재미있는 삶을 살고 싶은 <b>인간</b>.<br>
 음악과 영화를 사랑하는 <b>덕후</b>.<br>
-우아한 코드와 구조를 좋아하는 <b>SW 개발자</b>.<br>
-AI 연구실을 졸업하고 피처폰, 스마트폰, 자동차 인포테인먼트 시스템의 Software 개발하고 있지만, 언젠가는 AI 개발로 돌아가고 싶은 <b>모바일 프로그래머</b>.
+우아한 코드와 구조를 좋아하는 <b>프로그래머</b>.<br>
+스마트폰, 차량 전장 제품을 개발하는 <b> 임베디드 SW 개발자</b>.<br>
+AI 기술에 미래가 있다고 꿈꾸는 <b>AI 예찬론자</b>.
 
 <b>Person</b> who want to live a fun life.<br>
 <b>Mania</b> who love music and movies.<br>
-<b>SW Engineer</b> who like elegant code and structure.<br>
-<b>Mobile Programmer</b> who graduated from AI lab and develops software for feature phone, smartphone, and car infotainment system, but wants to return to AI development someday.
+<b>Programmer</b> who like elegant code and structure.<br>
+<b>Embedded SW Engineer</b> who develops software for feature phone, smartphone, and car infotainment system.<br>
+<b>AI Enthusiast</b> who think that there is future in Artificial Intelligence Technology.
 
 # Informations #
  - Name : Jioh Yoo (유지오)
@@ -21,7 +23,7 @@ AI 연구실을 졸업하고 피처폰, 스마트폰, 자동차 인포테인먼�
 
 # Work Experiences #
 - 2014/06 ~ Present : 현대 모비스 Hyundai Mobis
-    + Senior SW Engineer / Programmer / Project Leader [...in detail](./career/mobis)
+    + Senior SW Engineer / SW Architect / Programmer / Project Leader [...in detail](./career/mobis)
 - 2006/02 ~ 2014/05 : 팬택 Pantech
     + SW Engineer / Programmer [...in detail](./career/pantech)
 
@@ -48,21 +50,22 @@ AI 연구실을 졸업하고 피처폰, 스마트폰, 자동차 인포테인먼�
  - ★★★★☆ C/C++ 
  - ★★★☆☆ HTML/CSS, JavaScript, jQuery
  - ★★★★☆ Android Application Development / Android Framework (AOSP)
- - ★★☆☆☆ Embedded Linux / QT
+ - ★★★★☆ Embedded Linux / Yocto
+ - ★★★★☆ Qt Framework/QML
  - ★★★★★ Object-oriented Design / Refactoring
- - ★★★★☆ Technical Writing /UML
+ - ★★★★★ Technical Writing /UML
  - ★★★★☆ Mobile/Embedded Software
- - ★★★☆☆ Automotive Framework / CAN Network
+ - ★★★★☆ Automotive Framework / CAN Network
  - ★★★☆☆ Cryptography
  - ★★★☆☆ Baysian Network, Genetic Algorithm, ANN
- - ★☆☆☆☆ Python / Tensorflow
+ - ★★★☆☆ Python / Tensorflow
 
 ## Proficiency Skills ##
  - ★★★★★ Git
  - ★★★★☆ Intelli J, Android Studio, Eclipse, Vim, Sublime Text, vsCode
- - ★★★☆☆ Confluence/Jira
+ - ★★★★☆ Confluence/Jira
  - ★★★★☆ Productivity Tools (Word, PowerPoint, Excel, Visio, Photoshop, AfterEffect 등)
- - ★★★☆☆ Markdown
+ - ★★★★☆ Markdown
  - ★★☆☆☆ Bash Shell Script
  - ★★☆☆☆ Docker
  - ★★★★★ Googling
@@ -79,7 +82,7 @@ AI 연구실을 졸업하고 피처폰, 스마트폰, 자동차 인포테인먼�
  - ★★★★☆ 긍정적인 마음
  - ★★★★★ 친화력
  - ★☆☆☆☆ 냉정함
- - ★★★★☆ 의견내기
+ - ★★★★★ 의견내기
  - ☆☆☆☆☆ 조용함을 견딤
  - ★★★★★ 빨리 배우기
  - ★★★★★ 좋은 시작
