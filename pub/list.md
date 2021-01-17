@@ -9,7 +9,7 @@
 
 ### 주요 게재 논문 ###
 - 국내 논문지 (1편)
-    1. J.-O. Yoo, K.-J. Kim and S.-B. Cho, "Construction of robust Bayesian network ensemble using speciated evolutionary algorithm", Journal of Korea Information Science Society, vol. 31, no. 12, pp. 1569-1580, 2004. (published)
+    1. J.-O. Yoo, K.-J. Kim and S.-B. Cho, "Construction of robust Bayesian network ensemble using speciated evolutionary algorithm", Korean Institute of Information Scientists and Engineers, vol. 31, no. 11, pp. 1569-1580, 2004. (published)
     [Link](http://sclab.yonsei.ac.kr/publications/Papers/DJ/1569-1580_uribyul.pdf)
     [Link2](./pub_archive/2004_Construction_of_BN.pdf)
 
