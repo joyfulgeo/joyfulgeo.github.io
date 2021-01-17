@@ -96,4 +96,4 @@ AI 기술에 미래가 있다고 꿈꾸는 <b>AI 예찬론자</b>.
      + 2002년 1학기 동아리 회장 역할 수행
      
      
-> This Document is Last Updated on Feb, 2021
+> This Document is Last Updated on January, 2021
