@@ -24,8 +24,23 @@ AI 기술에 미래가 있다고 꿈꾸는 <b>AI 예찬론자</b>.
 # Work Experiences #
 - 2014/06 ~ Present : 현대 모비스 Hyundai Mobis
     + Senior SW Engineer / SW Architect / Programmer / Project Leader [...in detail](./career/mobis)
+> - 2020/04 ~ 현재 // Linux/Yocto 기반 AVN : SW Architect (Application, Platform SW Architecture 설계 및 지원)
+> - 2019/11 ~ 2020/03 // AI 준전문가 양성 과정(AI for Mobis OJT) 2기 과정 수료 (로그의 통계적 특성을 이용한 고수준 정보 추출 및 시각화)
+> - 2018/09 ~ 2019/10 // Linux/Yocto/QT 기반 AVN : 홈/메뉴 기능 개발
+> - 2018/05 ~ 2018/11 // AOSP(GB) 기반 AVN : 성능 개선 TFT
+> - 2018/04 ~ 2019/01 // AOSP(GB) 기반 AVN : Automotive Framework 신규 사양 적용 및 유지보수
+> - 2016/01 ~ 2017/04 // AOSP(ICS) 기반 AVN : Setting 기능 개발 및 유지보수
+> - 2016/05 ~ 2017/01 // AOSP(ICS) 기반 AVN : 드라이브 모드 사양을 위한 Automotive Framework/UI 개발
+> - 2014/10 ~ 2015/12 // AOSP(GB) 기반 AVN : 외장 CDP 사양을 위한 Automotive Framework 개발
+> - 2014/06 ~ 2017/04 // AOSP(GB) 기반 AVN : Firmware Update 보안 개발 및 유지보수
+    
 - 2006/02 ~ 2014/05 : 팬택 Pantech
     + SW Engineer / Programmer [...in detail](./career/pantech)
+> - 2011/10 ~ 2014/05 // Cloud Live의 단말 Client 개발 및 지원
+> - 2011/10 ~ 2012/04 // SKY Air Link 개발
+> - 2009/06 ~ 2011/09 // 미주향 Feature Phone 관련 AMS 및 Task Manager 개발
+> - 2008/06 ~ 2009/09 // 미주향 Feature Phone을 위한 3G UI 개발
+> - 2007/08 ~ 2008/03 // 일본 KDDI향 Feature Phone 관련 KCP 개발 지원    
 
 # Publications #
  베이지안 네트워크를 유전자 알고리즘을 통해 학습하는 연구, 또 다양한 데이터를 처리하기 위해 퍼지 이론을 사용한 전처리 모듈을 베이지안 네트워크와 접목하는 연구 등을 수행하였고, 적용한 분야로 모바일 로봇 분야, PDA 등 모바일 기기를 사용한 위치 기반 서비스, 상황 인식을 사용한 음악 추천 서비스 등이 있음
